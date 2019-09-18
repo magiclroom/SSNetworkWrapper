@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SSNetworkWrapper_Example' do
+  pod 'SSNetworkWrapper', :path => '../'
+
+  target 'SSNetworkWrapper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
