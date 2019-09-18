@@ -1,0 +1,6 @@
+framework module SSNetworkWrapper {
+  umbrella header "SSNetworkWrapper-umbrella.h"
+
+  export *
+  module * { export * }
+}

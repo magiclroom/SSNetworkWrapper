@@ -1,0 +1,16 @@
+PODS:
+  - SSNetworkWrapper (0.1.0)
+
+DEPENDENCIES:
+  - SSNetworkWrapper (from `../`)
+
+EXTERNAL SOURCES:
+  SSNetworkWrapper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSNetworkWrapper: ccd54a59e6dd6b16967a2baa8cd03b06b73fff89
+
+PODFILE CHECKSUM: 65a453800deb1a7e892d26584c30fd81b54795c4
+
+COCOAPODS: 1.6.0.beta.1
